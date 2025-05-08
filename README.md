@@ -1,7 +1,7 @@
 # AI-Driven Credit Risk Analysis and Mitigation
 
 ## Project Overview
-This project is aimed at enhancing **Mastercard's credit risk assessment** capabilities by leveraging artificial intelligence and machine learning. It focuses on analyzing Mastercard's financial data to uncover subtle or underexplored risk patterns that traditional credit risk models might miss. By applying advanced AI models to credit data, the project seeks to improve risk prediction accuracy and provide early warnings for potential defaults. Ultimately, this AI-driven approach will help Mastercard refine its risk strategy, leading to better credit decisions and reduced financial losses.
+This project is aimed at enhancing **Mastercard's credit risk assessment** capabilities by leveraging artificial intelligence and machine learning. It focuses on analyzing Mastercard's financial data to uncover subtle or underexplored risk patterns that traditional credit risk models might miss. By applying advanced AI models to credit data, the project seeks to improve risk prediction accuracy and provide early warnings for potential defaults. Ultimately, this AI-driven approach will help Mastercard refine its risk strategy, leading to better credit decisions and reduced financial losses. 
 
 ## Key Features
 - **Underexplored Risk Identification**: Analyzes Mastercard's financial datasets to identify underexplored or hidden credit risk factors that may not be evident through conventional analysis.
